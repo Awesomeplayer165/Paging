@@ -50,7 +50,6 @@ class ViewController: UIViewController {
         let innerView = UIView()
         innerView.frame = CGRect(x: round(view.frame.width/5), y: round(view.frame.height/3), width: 200, height: 170)
         innerView.layer.cornerRadius = 10
-        innerView.layer.backgroundColor = UIColor.gray.cgColor
         innerView.layer.masksToBounds = true
         innerView.layer.backgroundColor = UIColor.white.cgColor
         
