@@ -1,4 +1,4 @@
-# Paging in Swift
+# Paging in UIKit/Swift
 
 This repository examplifies using a Vertical ScrollView and a PageView.
 
